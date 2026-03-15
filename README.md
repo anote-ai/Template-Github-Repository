@@ -1,6 +1,6 @@
-# AI Academy Website - Anote Template
+# Anote Template Github Repository
 
-This is a full-stack application template for building AI Academy-style platforms using React frontend and Flask backend.
+This is a full-stack application template for building AI platforms using React frontend and Flask backend.
 
 ## Quick Start
 
